@@ -40,7 +40,7 @@ $ r
 ## Authors
 Julia Ramos
 
-[![Github: /juliaramosguedes](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github&logoColor=white&link=https://www.github.com/juliaramosguedes/)](https://www.www.github.com/juliaramosguedes/)
-[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
+[![Github: /juliaramosguedes](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/juliaramosguedes/)](https://www.www.github.com/juliaramosguedes/)
+[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)

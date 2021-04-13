@@ -31,10 +31,10 @@ Use browser's console to move the rover
 # move forward
 $ f
 
-#move left
+#spin left without move
 $ l
 
-#move right
+#spin right without move
 $ r
 ```
 

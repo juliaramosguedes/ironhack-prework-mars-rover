@@ -8,10 +8,11 @@ This project creates a rover that runs in different directions.
 
 It's a Ironhack's pre-work for Full Stack Web Development bootcamp.
 
-## Technologies
+## 🚀 Technologies
+* [x] HTML
 * [x] Javascript
 
-## Getting started
+## 🏁 Getting started
 ```
 # Clone this repository
 $ git clone https://github.com/juliaramosguedes/ironhack-prework-rover-mars-data.git
@@ -23,10 +24,10 @@ $ cd ironhack-prework-rover-mars-data
 $ open ./index.html
 ```
 
-## How to use
-```
-# Use browser's console to move the rover
+## 🔑 How to use
+Use browser's console to move the rover
 
+```
 # move forward
 $ f
 
@@ -37,7 +38,7 @@ $ l
 $ r
 ```
 
-## Authors
+## 👩‍💻 Author
 Julia Ramos
 
 [![Github: /juliaramosguedes](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/juliaramosguedes/)](https://www.www.github.com/juliaramosguedes/)

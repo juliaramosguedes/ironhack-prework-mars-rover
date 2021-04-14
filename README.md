@@ -1,13 +1,19 @@
 <img src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/banner-social-media.gif?raw=true" width="100%">
 &nbsp;
 
-# Rover Mars Data
+# Mars Rover
 ![GitHub top language](https://img.shields.io/github/languages/top/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
 ![Github last commit](https://img.shields.io/github/last-commit/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
 
 This project is a Ironhack's pre-work for Full Stack Web Development bootcamp.
 
-We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth. As the final exercise for this part of the module, you will be leading this project.
+In this exercise, the goal is to apply as many as possible of the concepts you have just learned:
+
+* [x] how to work with different types of variables
+* [x] how to manipulate nested data structures
+* [x] how to define and invoke functions
+
+We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth.
 
 ![Mars rover](http://i.imgur.com/yeDBBab.jpg)
 

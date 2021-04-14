@@ -13,7 +13,9 @@ In this exercise, the goal is to apply as many as possible of the concepts you h
 * [x] how to manipulate nested data structures
 * [x] how to define and invoke functions
 
-<img align='left' src="http://i.imgur.com/yeDBBab.jpg?raw=true" width="300">
+&nbsp;
+
+<img align='left' src="http://i.imgur.com/yeDBBab.jpg?raw=true" width="340">
 
 We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth.
 
@@ -25,7 +27,7 @@ Also, our rover is on a test mission. NASA has placed the rover on a 10x10 grid 
 
 ## 🚀 Technologies
 
-![Tech: HTML](https://img.shields.io/badge/-HTML-gray?logo=html&style=flat-square&logoColor=white)
+![Tech: HTML](https://img.shields.io/badge/-HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: JS](https://img.shields.io/badge/-Javascript-gray?logo=javascript&style=flat-square&logoColor=white)
 
 

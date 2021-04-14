@@ -5,15 +5,23 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
 ![Github last commit](https://img.shields.io/github/last-commit/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
 
-This project creates a rover that runs in different directions.
+This project is a Ironhack's pre-work for Full Stack Web Development bootcamp.
 
-It's a Ironhack's pre-work for Full Stack Web Development bootcamp.
+We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth. As the final exercise for this part of the module, you will be leading this project.
+
+![Mars rover](http://i.imgur.com/yeDBBab.jpg)
+
+Our Mars Rover is too independent, let’s put it this way. By that, we mean it can’t move and turn at the same time. This means that if the rover wants to move to the left, its first move must be a turn. Its next move will then be a step forward.
+
+Also, our rover is on a test mission. NASA has placed the rover on a 10x10 grid to make sure all is well before we ship it off to Mars.
 
 &nbsp;
 
 ## 🚀 Technologies
-* [x] HTML
-* [x] Javascript
+
+![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html&style=flat-square)
+![Tech: JS](https://img.shields.io/badge/Javascript-gray?logo=javascript&style=flat-square)
+
 
 &nbsp;
 
@@ -43,6 +51,11 @@ $ l
 #spin right
 $ r
 ```
+&nbsp;
+
+## ✨ Give a star
+If you like this project or if it helped you in any way, how about giving it a star?
+
 &nbsp;
 
 ## 👩‍💻 Author

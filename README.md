@@ -2,8 +2,8 @@
 &nbsp;
 
 # Mars Rover
-![GitHub top language](https://img.shields.io/github/languages/top/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
-![Github last commit](https://img.shields.io/github/last-commit/juliaramosguedes/ironhack-prework-rover-mars-data?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/juliaramosguedes/ironhack-prework-mars-rover?style=flat-square)
+![Github last commit](https://img.shields.io/github/last-commit/juliaramosguedes/ironhack-prework-mars-rover?style=flat-square)
 
 This project is a Ironhack's pre-work for Full Stack Web Development bootcamp.
 
@@ -13,7 +13,7 @@ In this exercise, the goal is to apply as many as possible of the concepts you h
 * [x] how to manipulate nested data structures
 * [x] how to define and invoke functions
 
-<img align='right' src="http://i.imgur.com/yeDBBab.jpg?raw=true" width="335">
+<img align='left' src="http://i.imgur.com/yeDBBab.jpg?raw=true" width="300">
 
 We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth.
 
@@ -25,8 +25,8 @@ Also, our rover is on a test mission. NASA has placed the rover on a 10x10 grid 
 
 ## 🚀 Technologies
 
-![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html&style=flat-square)
-![Tech: JS](https://img.shields.io/badge/Javascript-gray?logo=javascript&style=flat-square)
+![Tech: HTML](https://img.shields.io/badge/-HTML-gray?logo=html&style=flat-square&logoColor=white)
+![Tech: JS](https://img.shields.io/badge/-Javascript-gray?logo=javascript&style=flat-square&logoColor=white)
 
 
 &nbsp;
@@ -34,10 +34,10 @@ Also, our rover is on a test mission. NASA has placed the rover on a 10x10 grid 
 ## 🏁 Getting started
 ```
 # Clone this repository
-$ git clone https://github.com/juliaramosguedes/ironhack-prework-rover-mars-data.git
+$ git clone https://github.com/juliaramosguedes/ironhack-prework-mars-rover.git
 
 # Go into the repository
-$ cd ironhack-prework-rover-mars-data
+$ cd ironhack-prework-mars-rover
 
 # Open browser
 $ open ./index.html
@@ -67,11 +67,10 @@ If you like this project or if it helped you in any way, how about giving it a s
 ## 👩‍💻 Author
 Julia Ramos
 
-[hi@juliaramos.dev](mailto:hi@juliaramos.dev)
-
 [www.juliaramos.dev](https://www.juliaramos.dev)
 
-[![Github: /juliaramosguedes](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/juliaramosguedes/)](https://www.www.github.com/juliaramosguedes/)
-[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
+[![Email: juliaramos](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:hi@juliaramos.dev)
+[![Github: /juliaramosguedes](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/juliaramosguedes/)](https://www.github.com/juliaramosguedes/)
+[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)

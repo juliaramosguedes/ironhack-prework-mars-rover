@@ -13,9 +13,9 @@ In this exercise, the goal is to apply as many as possible of the concepts you h
 * [x] how to manipulate nested data structures
 * [x] how to define and invoke functions
 
-We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth.
+<img align='right' src="http://i.imgur.com/yeDBBab.jpg?raw=true" width="335">
 
-![Mars rover](http://i.imgur.com/yeDBBab.jpg)
+We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth.
 
 Our Mars Rover is too independent, let’s put it this way. By that, we mean it can’t move and turn at the same time. This means that if the rover wants to move to the left, its first move must be a turn. Its next move will then be a step forward.
 
